@@ -1,0 +1,33 @@
+<mvc:View 
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:form="sap.ui.layout.form"
+	controllerName="de.integrata.training.16961.lesson.5.controller.Detail">
+	<Page title="{i18n>CustomerDetailsPageTitle}">
+		<content>
+			<form:SimpleForm id="SimpleFormDisplay354"
+				minWidth="1024"
+				maxContainerCols="2"
+				editable="false"
+				layout="ResponsiveGridLayout"
+				title="Address"
+				labelSpanL="3"
+				labelSpanM="3"
+				emptySpanL="4"
+				emptySpanM="4"
+				columnsL="1"
+				columnsM="1">
+				<form:content>
+					<Label text="{i18n>CustomerNameLabel}" />
+					<Text text="{dataModel>Custname}" />
+					<Label text="{i18n>CustomerStreetLabel}" />
+					<Text text="{dataModel>Street}" />
+					<Label text="{i18n>CustomerZIPAndLocationLabel}" />
+					<Text text="{dataModel>Postcode}, {dataModel>City}" />
+					<Label text="{i18n>CustomerCountryLabel}" />
+					<Text text="{dataModel>Countr}" />
+				</form:content>
+			</form:SimpleForm>
+		</content>
+	</Page>
+</mvc:View>

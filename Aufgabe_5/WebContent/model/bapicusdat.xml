@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bapiscudat>
+	<BapiscudatSet>
+		<Customerid>00000001</Customerid>
+		<Custname>SAP AG XML</Custname>
+		<Form>Firma</Form>
+		<Street>Dietmar-Hopp-Allee 16</Street>
+		<Pobox></Pobox>
+		<Postcode>69190</Postcode>
+		<City>Walldorf</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone>06227-34-0</Phone>
+		<Email>info@sap.de</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000002</Customerid>
+		<Custname>Andreas Klotz</Custname>
+		<Form>Herr</Form>
+		<Street>Pimpinellenweg 9</Street>
+		<Pobox></Pobox>
+		<Postcode>69190</Postcode>
+		<City>Walldorf</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone>05344-676792</Phone>
+		<Email>Andreas.Klotz@sap.com</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000003</Customerid>
+		<Custname>Hans Bullinger</Custname>
+		<Form>Herr</Form>
+		<Street>Veilchenstraße 12</Street>
+		<Pobox></Pobox>
+		<Postcode>69119</Postcode>
+		<City>Heidelberg</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone>02099-44591</Phone>
+		<Email>Hansi@Bulli.de</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000004</Customerid>
+		<Custname>Staerck</Custname>
+		<Form>Frau</Form>
+		<Street>Kaiserstr. 55</Street>
+		<Pobox></Pobox>
+		<Postcode>69115</Postcode>
+		<City>Heidelberg</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone>07508-66-7886</Phone>
+		<Email>Farbenblind@gmx.de</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000005</Customerid>
+		<Custname>Martin</Custname>
+		<Form>Mister</Form>
+		<Street>44 Harolds Road</Street>
+		<Pobox></Pobox>
+		<Postcode>L07 1AZ</Postcode>
+		<City>Liverpool</City>
+		<Countr>GB</Countr>
+		<Countr_iso>GB</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Steve.Martin@hool.uk</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000006</Customerid>
+		<Custname>Starr</Custname>
+		<Form>Miss</Form>
+		<Street>74 Kings Road</Street>
+		<Pobox></Pobox>
+		<Postcode>L07 3BC</Postcode>
+		<City>Liverpool</City>
+		<Countr>GB</Countr>
+		<Countr_iso>GB</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>FCStar@unio.uk</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000007</Customerid>
+		<Custname>King</Custname>
+		<Form>Mister</Form>
+		<Street>Hyde Park 7</Street>
+		<Pobox></Pobox>
+		<Postcode>M21 7AB</Postcode>
+		<City>Manchester</City>
+		<Countr>GB</Countr>
+		<Countr_iso>GB</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Burger@King.com</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000008</Customerid>
+		<Custname>Moore</Custname>
+		<Form>Company</Form>
+		<Street></Street>
+		<Pobox>A-312</Pobox>
+		<Postcode>SW3 4DE</Postcode>
+		<City>London</City>
+		<Countr>GB</Countr>
+		<Countr_iso>GB</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Moore@abc.net</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000009</Customerid>
+		<Custname>Everton FC</Custname>
+		<Form></Form>
+		<Street>Sir Wellington Road</Street>
+		<Pobox></Pobox>
+		<Postcode>L08 5RZ</Postcode>
+		<City>Liverpool</City>
+		<Countr>GB</Countr>
+		<Countr_iso>GB</Countr_iso>
+		<Region></Region>
+		<Phone>332-5678-0</Phone>
+		<Email>Football.Liverpool@sports.com</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000010</Customerid>
+		<Custname>Raupp</Custname>
+		<Form>Herr</Form>
+		<Street>Glockenblumenweg 5</Street>
+		<Pobox></Pobox>
+		<Postcode>8002</Postcode>
+		<City>Zuerich</City>
+		<Countr>CH</Countr>
+		<Countr_iso>CH</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>HelmutDanielaRaupp@swiss.ch</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000011</Customerid>
+		<Custname>Ballmann</Custname>
+		<Form>Herr</Form>
+		<Street>Ballmanns Leiden 7</Street>
+		<Pobox></Pobox>
+		<Postcode>69115</Postcode>
+		<City>Heidelberg</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Ball@mann.net</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000012</Customerid>
+		<Custname>Radetzky</Custname>
+		<Form>Frau</Form>
+		<Street>Mozartstr. 102</Street>
+		<Pobox></Pobox>
+		<Postcode>1000</Postcode>
+		<City>Wien</City>
+		<Countr>AT</Countr>
+		<Countr_iso>AT</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Radetzky@Marsch.at</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000013</Customerid>
+		<Custname>Mueller</Custname>
+		<Form>Firma</Form>
+		<Street></Street>
+		<Pobox>44321</Pobox>
+		<Postcode>68159</Postcode>
+		<City>Mannheim</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Vitamine@mueller.net</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000014</Customerid>
+		<Custname>Genee</Custname>
+		<Form>Herr</Form>
+		<Street>Albrecht-Duerer-Str. 4</Street>
+		<Pobox></Pobox>
+		<Postcode>50733</Postcode>
+		<City>Koeln</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Mausklick@cologne.net</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000015</Customerid>
+		<Custname>Soehnen</Custname>
+		<Form>Herr</Form>
+		<Street>Veilchenstr. 6</Street>
+		<Pobox></Pobox>
+		<Postcode>01099</Postcode>
+		<City>Dresden</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Pastor.Soehnen@kirche.de</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000016</Customerid>
+		<Custname>Leihinger Brauerei</Custname>
+		<Form>Firma</Form>
+		<Street>Leopoldsgasse 3</Street>
+		<Pobox></Pobox>
+		<Postcode>80339</Postcode>
+		<City>Muenchen</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Gutes-Bier@gluck-gluck.de</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000017</Customerid>
+		<Custname>Ruthenberg</Custname>
+		<Form>Frau</Form>
+		<Street>Hirschheimer Str. 6A</Street>
+		<Pobox></Pobox>
+		<Postcode>69118</Postcode>
+		<City>Heidelberg</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Briefkasten@ruthi.de</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000018</Customerid>
+		<Custname>Miller</Custname>
+		<Form>Herr</Form>
+		<Street>Am Sandberg 17</Street>
+		<Pobox></Pobox>
+		<Postcode>46539</Postcode>
+		<City>Dinslaken</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>MisterMiller@box.com</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000019</Customerid>
+		<Custname>Plum</Custname>
+		<Form>Herr</Form>
+		<Street>Dudenhoeferweg 26</Street>
+		<Pobox></Pobox>
+		<Postcode>69493</Postcode>
+		<City>Großsachsen</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Feuerrot@asdf.net</Email>
+	</BapiscudatSet>
+	<BapiscudatSet>
+		<Customerid>00000020</Customerid>
+		<Custname>Becker</Custname>
+		<Form>Herr</Form>
+		<Street>Wimbledonallee 6</Street>
+		<Pobox></Pobox>
+		<Postcode>69181</Postcode>
+		<City>Leimen</City>
+		<Countr>DE</Countr>
+		<Countr_iso>DE</Countr_iso>
+		<Region></Region>
+		<Phone></Phone>
+		<Email>Tennisarm@sabrina.de</Email>
+	</BapiscudatSet>
+</Bapiscudat>
