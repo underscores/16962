@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+
+		<script src="resources/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.m"
+				data-sap-ui-resourceroots='{"de.integrata.training.16961.lesson.2": "./"}'
+				data-sap-ui-xx-bindingSyntax="complex"
+				data-sap-ui-theme="sap_belize">
+		</script>
+
+		<script>
+				var oApp = new sap.m.App({initialPage:"IdMotivationView"});
+				/*var oPage = sap.ui.view({
+					id: "IdMotivationView", 
+					viewName: "de.integrata.training.16961.lesson.2.view.Motivation", 
+					type: "JS"
+				});*/
+				
+				var oPage = sap.ui.view({
+					id: "IdMotivationView", 
+					viewName: "de.integrata.training.16961.lesson.2.view.XMLSlider", 
+					type: "XML"
+				});
+				
+				oApp.addPage(oPage);
+				oApp.placeAt("content");
+		</script>
+
+	</head>
+	<body class="sapUiBody" role="application">
+		<div id="content"></div>
+	</body>
+</html>
