@@ -1,0 +1,35 @@
+<mvc:View	 
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:table="sap.ui.table"
+	controllerName="de.integrata.training.16961.lesson.4.controller.CustomerTable">
+	<Page title="{i18n>CustomerPageTitle}">
+		<content>
+			<table:Table rows="{
+				model: 'dataModel', 
+				path: '/BapiscudatSet'}"
+			>
+				<table:columns>
+					<table:Column sortProperty="Custname"
+								filterProperty="Custname">
+						<table:label>
+							<Label text="{i18n>CustomerNameColumn}"/>
+						</table:label>
+						<table:template>
+							<Text text="{dataModel>Custname}"/>
+						</table:template>
+					</table:Column>
+					<table:Column sortProperty="City"
+								filterProperty="City">
+						<table:label>
+							<Label text="{i18n>CustomerCityColumn}"/>
+						</table:label>
+						<table:template>
+							<Text text="{dataModel>City}"/>
+						</table:template>
+					</table:Column>
+				</table:columns>
+			</table:Table>
+		</content>
+	</Page>
+</mvc:View>
