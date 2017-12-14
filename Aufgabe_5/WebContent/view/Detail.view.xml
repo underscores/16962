@@ -10,7 +10,7 @@
 				maxContainerCols="2"
 				editable="false"
 				layout="ResponsiveGridLayout"
-				title="Address"
+				title="{i18n>AddressFormTitle}"
 				labelSpanL="3"
 				labelSpanM="3"
 				emptySpanL="4"
