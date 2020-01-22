@@ -59,12 +59,12 @@ sap.ui.define([
 				var sRootPath = jQuery.sap.getModulePath("de.integrata.training.16961.lesson.5extd");
 				
 				var i18nModel = new sap.ui.model.resource.ResourceModel({
-					bundleUrl: sRootPath + "i18n/i18n.properties"
+					bundleUrl: sRootPath + "/i18n/i18n.properties"
 				});
 				
 				this.setModel(i18nModel, "i18n");
 				
-				var oModel = new sap.ui.model.xml.XMLModel(sRootPath + "model/bapicusdat.xml")
+				var oModel = new sap.ui.model.xml.XMLModel(sRootPath + "/model/bapicusdat.xml")
 				this.setModel(oModel, "dataModel");
 
 				this.getRouter().initialize();
